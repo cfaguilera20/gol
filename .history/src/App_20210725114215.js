@@ -1,11 +1,11 @@
 import './App.css';
 
-import Board from './components/Board.jsx';
+import World from './components/World.jsx';
 
 function App() {
     return (
         <div className="App">
-            <Board />
+            <World />
         </div>
     );
 }
